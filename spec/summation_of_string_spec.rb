@@ -10,6 +10,6 @@ RSpec.describe 'Summation of String' do
   it "equates the numbered word as '0' and then calculates the sum of the input" do
     input = "one + 2"
 
-    expect(calc(input)).to_not eq("3")
+    expect(calc(input)).to eq("2")
   end
 end
