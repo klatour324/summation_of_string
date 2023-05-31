@@ -1,7 +1,3 @@
-
-
-
-
 def calc(input)
   collection_of_strings = input.split()
 
