@@ -1,6 +1,6 @@
 require_relative '../summation_of_string'
 
-describe 'Summation of String' do
+RSpec.describe 'Summation of String' do
   it 'calculates the sum of the input and returns the value as a string' do
     input = " 2 + 1"
 
