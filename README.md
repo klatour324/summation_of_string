@@ -1,8 +1,7 @@
 # Summation of String
-Coding challenge that returns the sum of string of numbers as a string value
 
 ### The Problem
-- Calculate the sum of a string of numbers and return the sum value as a string.
+- Calculate the sum of a string of numbers, i.e. `'1 + 1'` and return the summed value as a string.
 
 ### Considerations
 - Assume positive integer values only in the calculation
